@@ -28,15 +28,6 @@ select {
   outline: none;
 }
 
-.col-10 {
-  /* padding-left: 250px;
-  padding-top: 62px; */
-
-  /* border-top: 20px solid rgb(236, 236, 236);
-  border-left: 20px solid rgb(236, 236, 236);
-  width: 100%; */
-}
-
 table{
   width: 100%;
 }
@@ -45,6 +36,6 @@ th {
   padding: 25px;
 }
 
-/* @media (min-width: 1024px) {
-  width: 50%;
-} */
+.main-tag {
+  padding-top: 62px;
+}
