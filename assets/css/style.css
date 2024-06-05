@@ -16,7 +16,7 @@ a {
 }
 
 select {
-  width: 62px;
+  width: 72px;
   height: 39px;
   border-radius: 5px;
   outline: none;
@@ -26,7 +26,19 @@ select {
   /* padding-left: 250px;
   padding-top: 62px; */
 
-  border-top: 25px solid rgb(236, 236, 236);
-  border-left: 25px solid rgb(236, 236, 236);
+  /* border-top: 20px solid rgb(236, 236, 236);
+  border-left: 20px solid rgb(236, 236, 236);
+  width: 100%; */
+}
+
+table{
   width: 100%;
 }
+
+th {
+  padding: 25px;
+}
+
+/* @media (min-width: 1024px) {
+  width: 50%;
+} */
