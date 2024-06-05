@@ -1,0 +1,32 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background-color: white;
+}
+
+.bg-grey {
+  background-color: rgb(230, 230, 230);
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: black !important;
+  cursor: pointer;
+}
+
+select {
+  width: 62px;
+  height: 39px;
+  border-radius: 5px;
+  outline: none;
+}
+
+.col-10 {
+  /* padding-left: 250px;
+  padding-top: 62px; */
+
+  border-top: 25px solid rgb(236, 236, 236);
+  border-left: 25px solid rgb(236, 236, 236);
+  width: 100%;
+}
